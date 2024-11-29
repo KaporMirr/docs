@@ -1,6 +1,5 @@
-# Reference: #9087
+# Reference: #908
 
 versions:
-  fpt: '*'
-  ghec: '*'
+'
   ghes: '> 3.8'
